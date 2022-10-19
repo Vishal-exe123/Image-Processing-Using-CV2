@@ -1,1 +1,3 @@
-# Image-Processing-SummerTask4-ArthTask35
+# Image-Processing
+## Swapped Images using slicing operator of python
+## Tools and Languages:  CV2, Python
